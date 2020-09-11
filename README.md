@@ -1,5 +1,7 @@
 # pidb-software
 
+![PIDb-Home](https://user-images.githubusercontent.com/62181222/92827913-409fb680-f3f4-11ea-8a2e-87036080d3e6.png)
+
 Introduction:
 
     Information is most important things in this world. All the country of the world
@@ -23,6 +25,9 @@ Project Benefits:
 
     ● Find Duplicate Information (by biometric info)
 
+
+![PIDb-Add](https://user-images.githubusercontent.com/62181222/92828040-688f1a00-f3f4-11ea-93a6-aa9d57f481b1.png)
+
 Operations of the project:
 
     People’s Information Database (PIDb) Software performs the following tasks
@@ -36,6 +41,9 @@ Operations of the project:
       ● Edit Section: It will be able to correction data of any citizen.
 
       ● Delete Section: It will be able to delete duplicate data of citizen.
+      
+![PIDb-Display](https://user-images.githubusercontent.com/62181222/92828108-7ba1ea00-f3f4-11ea-9084-bbe02e4077ba.png)
+
 
 Programming Language:
 
