@@ -1,4 +1,4 @@
-# pidb-software
+# PIDb
 
 ![PIDb-Home](https://user-images.githubusercontent.com/62181222/92827913-409fb680-f3f4-11ea-8a2e-87036080d3e6.png)
 
