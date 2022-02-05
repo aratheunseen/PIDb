@@ -1,5 +1,5 @@
 # PIDb
-PIDb is an information management tool created in C++ as an university project. PIDb stands for Peoples Information Management System.
+PIDb is an information management tool created in C++ as an university project. PIDb stands for Peoples' Information Management System.
 
 ![PIDb-Home](https://user-images.githubusercontent.com/62181222/92827913-409fb680-f3f4-11ea-8a2e-87036080d3e6.png)
 
@@ -9,7 +9,7 @@ PIDb is an information management tool created in C++ as an university project. 
 
     git clone https://github.com/aratheunseen/PIDb.git
 
- Step-2. Compile cpp code on gcc or CodeBlocks.
+ Step-2. Compile cpp code in `gcc` or CodeBlocks.
 
 
 
