@@ -5,23 +5,26 @@ PIDb is an information management tool created in C++ as an university project. 
 
 ## Getting Started
 
-> Step-1. Download or clone this repository -
+ Step-1. Download or clone this repository -
 
     git clone https://github.com/aratheunseen/PIDb.git
 
-> Step-2. Compile cpp code on gcc or CodeBlocks.
+ Step-2. Compile cpp code on gcc or CodeBlocks.
+
+
 
 ## Project Proposal
 
-**Introduction:**
+### Introduction
 
-> Information is most important things in this world. All the country of the world needs to store their citizen information. By collecting people information, they can decrease the rate of crime, count total people, concern about people status and others. As a result, People’s Information Database Software is important to control the large database.
+Information is most important things in this world. All the country of the world needs to store their citizen information. By collecting people information, they can decrease the rate of crime, count total people, concern about people status and others. As a result, People’s Information Database Software is important to control the large database.
 
-**Project Objective:**
 
-> This project is made to build national citizen information database.
+### Project Objective
 
-**Project Benefits:**
+This project is made to build national citizen information database.
+
+### Project Benefits
 
 - Fast recording of people’s information
 
@@ -36,9 +39,9 @@ PIDb is an information management tool created in C++ as an university project. 
 
 ![PIDb-Add](https://user-images.githubusercontent.com/62181222/92828040-688f1a00-f3f4-11ea-93a6-aa9d57f481b1.png)
 
-**Operations of the project:**
+### Operations of the project
 
-> People’s Information Database (PIDb) Software performs the following tasks -
+People’s Information Database (PIDb) Software performs the following tasks -
 
 - Add Information: In this section the data of people is entered and saved.
 
@@ -53,10 +56,10 @@ PIDb is an information management tool created in C++ as an university project. 
 ![PIDb-Display](https://user-images.githubusercontent.com/62181222/92828108-7ba1ea00-f3f4-11ea-9084-bbe02e4077ba.png)
 
 
-**Programming Language:**
+### Programming Language
 
 - C++ (Programming Language)
 
-**Conclusion:**
+### Conclusion
 
-> By using all the information this program can create a national citizen database. The whole process of the PIDb Software will be showed in the code like add new citizen info, displaying people’s details, editing information. Hence we can conclude that this project can be done.
+By using all the information this program can create a national citizen database. The whole process of the PIDb Software will be showed in the code like add new citizen info, displaying people’s details, editing information. Hence we can conclude that this project can be done.
